@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# EntityFramework Migrations
+Migrations/
+
+# App_Data folder
+App_Data
